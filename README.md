@@ -1,3 +1,4 @@
 # SHA-SpatialHeterogeneityAnalysis
 SHA，A toolkit for genomics spatial heterogeneity analysis which is designed for a variety of spatial transcriptomics techniques such as **seqFISH+**, **MERFISH**, **10X Visium**.
+
 SHA provides a series of spatial heterogeneity mining methods, including **spatial heterogeneity genes calculation**, **cell type and tissue area spatial entropy calculation**, **gene expression regulation network based on geographically weighted regression**, **spatial accessibility analysis**.
