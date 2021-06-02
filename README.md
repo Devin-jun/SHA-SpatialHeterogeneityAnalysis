@@ -5,6 +5,6 @@ SHA provides a series of spatial heterogeneity mining methods, including **spati
 
 We analyzed different datasets from three domains: ***neurobiology, tumor biology, and developmental biology*** based on SHA computational frameworks.
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gqtcgabjb2j31hi0ts0wv.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gr4b8i6plcj31hr0u041x.jpg)
 
-![](https://tva1.sinaimg.cn/large/008i3skNgy1gqtk9ah8bbj31hi0tsgwl.jpg)
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gr4cw7xpbsj31e20run6l.jpg)
