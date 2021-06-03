@@ -10,3 +10,8 @@ We analyzed different datasets from three domains: ***neurobiology, tumor biolog
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gr4cw7xpbsj31e20run6l.jpg)
 
 ## Installation
+
+There are two ways to use SHA
+
+1. git clone https://github.com/Devin-jun/SHA-SpatialHeterogeneityAnalysis.git
+2. Pip install SHA
