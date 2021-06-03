@@ -15,3 +15,10 @@ There are two ways to use SHA
 
 1. git clone https://github.com/Devin-jun/SHA-SpatialHeterogeneityAnalysis.git
 2. Pip install SHA
+
+## Requirements
+
+- Pandas
+- Numpy
+- Scanpy
+- Scikit-learn
