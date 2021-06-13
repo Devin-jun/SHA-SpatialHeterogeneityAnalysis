@@ -14,7 +14,7 @@ We analyzed different datasets from three domains: ***neurobiology, tumor biolog
 There are two ways to use SHA
 
 1. git clone https://github.com/Devin-jun/SHA-SpatialHeterogeneityAnalysis.git
-2. Pip install SHA
+2. Pip install SpatialHeterogeneityAnalysis
 
 ## Requirements
 
